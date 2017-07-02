@@ -1,0 +1,1 @@
+[{"text":"(Luigi) is Mario's brother in Super Mario Bros.","cloze":"Luigi"},{"text":"Now is the (summer) of our discontent.","cloze":"summer"},{"text":" (roger federer) is the number 1 tennis player in the world.","cloze":"roger federer"},{"text":" (longhorns) is the name of UT Texas football team.","cloze":"longhorns"}]
